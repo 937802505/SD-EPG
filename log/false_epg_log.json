@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-13T19:02:02.324025",
+  "generated_at": "2026-09-14T20:39:32.369647",
   "channels_count": 11,
   "programs_per_channel": 72,
   "total_programs": 792,
   "date_range": {
-    "yesterday": "2026-09-12",
-    "today": "2026-09-13",
-    "tomorrow": "2026-09-14"
+    "yesterday": "2026-09-13",
+    "today": "2026-09-14",
+    "tomorrow": "2026-09-15"
   },
   "channels": [
     {
